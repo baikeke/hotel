@@ -1,2 +1,2 @@
 # hotel
-node 租车管理系统
+node 酒店管理系统
